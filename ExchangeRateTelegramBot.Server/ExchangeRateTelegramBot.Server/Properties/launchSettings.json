@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Server": {
+      "commandName": "Project"
+    },
+    "Server.Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
